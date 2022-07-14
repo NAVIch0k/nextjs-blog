@@ -11,10 +11,11 @@ const Layout = ({ children, title, description, keywords }) => {
                 <meta name="robots" content="index, follow" />
                 <meta name="keywords" content={keywords || "Музыка, треки, артисты"} />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <script src="https://unpkg.com/wavesurfer.js"></script>
             </Head>
-            <Header/>
+            <Header />
             {children}
-            <Player/>
+            <Player />
         </>
     )
 }

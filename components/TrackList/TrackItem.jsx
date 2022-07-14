@@ -20,7 +20,6 @@ const TrackItem = ({ track }) => {
                 dispatch(pauseTrack())
             }
         } else {
-            console.log(track);
             dispatch(setActiveTrack(track))
             dispatch(playTrack())
         }
@@ -42,9 +41,6 @@ const TrackItem = ({ track }) => {
                     <p>{track.name}</p>
                     <p>{track.artist}</p>
                 </div>
-            </div>
-            <div>
-                <p>02:42 / 03:34</p>
             </div>
         </div>
     )

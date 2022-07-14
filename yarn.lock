@@ -921,6 +921,11 @@ use-sync-external-store@^1.0.0:
   resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.2.0.tgz#7dbefd6ef3fe4e767a0cf5d7287aacfb5846928a"
   integrity sha512-eEgnFxGQ1Ife9bzYs6VLi8/4X6CObHMw9Qr9tPY43iKwsPw8xE8+EFsf/2cFZ5S3esXgpWgtSCtLNS41F+sKPA==
 
+wavesurfer-react@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/wavesurfer-react/-/wavesurfer-react-2.2.2.tgz#6720f73fc1780bc47340ee454b9c552144717c52"
+  integrity sha512-3w98DzGjZxMYFrP0syvyk1YYifFVLqhjtfUgJpygezSWPVXq0XTFKHlkNZrpJ8iLAtahpFb7CIeL60HYdw91MA==
+
 yaml@^1.7.2:
   version "1.10.2"
   resolved "https://registry.yarnpkg.com/yaml/-/yaml-1.10.2.tgz#2301c5ffbf12b467de8da2333a459e29e7920e4b"

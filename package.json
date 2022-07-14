@@ -16,6 +16,8 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-redux": "^8.0.2",
-    "sass": "^1.53.0"
-  }
+    "sass": "^1.53.0",
+    "wavesurfer-react": "^2.2.2"
+  },
+  "devDependencies": {}
 }

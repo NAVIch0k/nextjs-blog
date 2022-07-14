@@ -1,7 +1,7 @@
 import { wrapper } from "../store/store";
 import style from '../styles/global.css'
 
-const WrappedApp = ({Component, pageProps}) => (
+const WrappedApp = ({ Component, pageProps }) => (
     <Component {...pageProps} />
 );
 

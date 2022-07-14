@@ -29,9 +29,20 @@
         button {
             padding: 0;
             background: transparent;
+            border: none;
+        }
+
+        &__play {
+            border: 2px solid black !important;
             border-radius: 50%;
             width: 40px;
             height: 40px;
+        }
+
+        &__player {
+            display: flex;
+            gap: 10px;
+            align-items: center;
         }
     }
 }
