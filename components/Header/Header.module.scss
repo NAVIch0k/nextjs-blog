@@ -1,0 +1,12 @@
+.header{
+    background: fixed;
+    display: flex;
+    align-items: center;
+    background-color: yellowgreen;
+    padding-left: 50px;
+    height: 60px;
+
+    &__title{
+        margin: 0;
+    }
+}
